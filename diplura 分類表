@@ -1,0 +1,6 @@
+cd C:\Users\yokog\OneDrive\デスクトップ\動物系統学研究室\Diplura\taxonomy_full\html
+git init
+git remote add origin https://github.com/ユーザー名/taxonomy-viewer.git
+git add taxonomy_full.html
+git commit -m "Add taxonomy tree HTML"
+git push -u origin main
